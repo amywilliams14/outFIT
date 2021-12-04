@@ -8,7 +8,7 @@ create new ones too.
 
 There is NSLayoutConstraint, A UITableView, Navigation, and code for an API. 
 
-Demo Link: https://youtu.be/7ajaQB7dDU8
+Demo Link: https://youtu.be/vE0RbNTfGy8
 
 Backend: https://github.com/lbowsher/outfitbackend
 ![Simulator Screen Shot - iPhone 11 - 2021-12-04 at 00 04 58](https://user-images.githubusercontent.com/85902636/144697992-dc567212-4eb5-4d87-b379-c08bee4cf293.png)
